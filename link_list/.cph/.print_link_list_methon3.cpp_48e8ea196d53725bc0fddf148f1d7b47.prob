@@ -1,0 +1,1 @@
+{"name":"Local: print_link_list_methon3","url":"d:\\C++ Algorithm\\link_list\\print_link_list_methon3.cpp","tests":[{"id":1686905946362,"input":"5\n10 20 30 40 -1","output":"10 \n20 \n30 \n40 \n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Algorithm\\link_list\\print_link_list_methon3.cpp","group":"local","local":true}

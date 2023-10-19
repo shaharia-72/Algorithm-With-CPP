@@ -1,0 +1,1 @@
+{"name":"Local: adjacent_differance_with_custom","url":"d:\\C++ Algorithm\\adjacent_differance_with_custom.cpp","tests":[{"id":1686634334357,"input":"5\n1 2 3 4 5","output":"1 2 6 12 20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Algorithm\\adjacent_differance_with_custom.cpp","group":"local","local":true}
